@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
-- 🔭 I’m currently working on **WatchDog (Private)**
+- 🔭 I’m currently working on **WatchDog**
 
 - 🌱 I’m currently learning **SQLite**
 
