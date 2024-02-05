@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **WatchDog**
 
-- 🌱 I’m currently learning **SQLite**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **.nhvr on Discord**
 
