@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Pitbull by 3707](https://github.com/TechnoDogs-3707/pitbull)<br>🤝 I’m looking for help with Swift<br>🌱 I’m currently learning Swift<br>⚡ Fun fact - I live in Michigan<br>👧 she/her
+🔭 I’m currently working on [Pitbull by 3707](https://github.com/TechnoDogs-3707/pitbull)<br>⚡ Fun fact - I live in Michigan<br>👧 she/her
 
 
 ## 🌐 Socials:
