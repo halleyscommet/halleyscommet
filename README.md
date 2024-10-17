@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Pitbull by 3707](https://github.com/TechnoDogs-3707/pitbull)<br>⚡ Fun fact - I live in Michigan<br>👧 she/her
+🔭 I’m currently working on [Pitbull by 3707](https://github.com/TechnoDogs-3707/pitbull)<br>⚡ Fun fact - I live in Michigan
 
 
 ## 🌐 Socials:
