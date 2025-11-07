@@ -1,4 +1,4 @@
-<h1 align="left">hai! im haley, and i like computers</h1>
+<h1 align="left">.......................................</h1>
 
 ###
 
