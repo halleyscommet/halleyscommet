@@ -1,4 +1,4 @@
-<h1 align="left">.......................................</h1>
+<h1 align="left">im haley! (i use arch btw)</h1>
 
 ###
 
