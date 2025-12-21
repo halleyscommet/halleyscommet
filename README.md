@@ -1,7 +1,3 @@
-<h1 align="left">im haley! (i use arch btw)</h1>
-
-###
-
 <img align="right" height="175" src="https://avatars.githubusercontent.com/u/114954963?v=4"  />
 
 ###
