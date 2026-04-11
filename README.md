@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:halleyscommet?theme=e621&padding=7&scale=1&align=top&pixelated=0&darkmode=auto"  />
-</div>
-
-###
-
 <h3 align="left">About Me:</h3>
 
 ###
