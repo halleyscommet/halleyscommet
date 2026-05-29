@@ -1,14 +1,8 @@
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/halleyscommet/images/refs/heads/main/wiggle-dakota.gif"  />
-</div>
-
-###
-
 <h3 align="left">About Me:</h3>
 
 ###
 
-<p align="left">I'm haley, and I'm from Michigan!<br><br>- I’m working as a coding mentor<br>- I'm currently learning how to wire <br>- In my free time I play rally games and work on my car</p>
+<p align="left"><br>- I’m working as a coding mentor<br>- I'm currently learning how to wire <br>- In my free time I play rally games and work on my car</p>
 
 ###
 
